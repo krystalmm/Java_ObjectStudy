@@ -33,13 +33,10 @@ public class Player {
 		
 		if (randomNum < 1) {
 			hand = STONE;
-			System.out.println("グー");
 		} else if (randomNum < 2) {
 			hand = SCISSORS;
-			System.out.println("チョキ");
 		} else if (randomNum < 3) {
 			hand = PAPER;
-			System.out.println("パー");
 		}
 		
 		return hand;
