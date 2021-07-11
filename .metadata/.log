@@ -755,3 +755,18 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-11 15:08:04.685
 !MESSAGE executing callback sts4.classpath.SxKDnESj SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-11 15:59:01.402
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-11 15:59:01.403
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-11 15:59:01.404
+!MESSAGE buffering callback sts4.classpath.SxKDnESj Janken_program_Object false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-11 15:59:01.404
+!MESSAGE executing callback sts4.classpath.SxKDnESj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-11 15:59:01.408
+!MESSAGE executing callback sts4.classpath.SxKDnESj SUCCESS [終了しました]
