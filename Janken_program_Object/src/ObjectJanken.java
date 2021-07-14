@@ -13,7 +13,8 @@ public class ObjectJanken {
 		
 //		// 村田さんに渡す戦略クラスを生成する（必ずグーを出す）
 //		Tactics murataTactics = new StoneOnlyTactics();
-		Tactics murataTactics = new AskTactics();
+//		Tactics murataTactics = new AskTactics();
+		Tactics murataTactics = new CyclicTactics();
 		// 村田さんに戦略クラスを渡す
 		murata.setTactics(murataTactics);
 		
