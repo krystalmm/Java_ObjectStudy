@@ -65,7 +65,7 @@ public class Master {
 	 * 
 	 * @param winner 上がったプレイヤー
 	 */
-	public void declarWin(Player winner) {
+	public void declareWin(Player winner) {
 		// 上がったプレイヤー
 		System.out.println(winner + "さんが上がりました！");
 		
