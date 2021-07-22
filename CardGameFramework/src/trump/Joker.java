@@ -23,7 +23,7 @@ public class Joker extends Card {
 	public void setNumber(int number) {
 		this.number_ = number;
 	}
-	
+
 	/**
 	 * スートを変更する
 	 * 
